@@ -11,5 +11,6 @@ while read repo; do
 	prevpwd=$PWD
 	cd $dir/$repo
 	git review -s
+	git config user.email "martin.urbanec@wikimedia.cz"
 	cd $prevpwd
 done < $scriptdir/$host.txt
