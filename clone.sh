@@ -1,6 +1,7 @@
 #!/bin/bash
 scriptdir="`dirname \"$0\"`"
 dir="$scriptdir/.."
+host=`hostname | cut -d. -f 1`
 
 # Clone all repos
 while read repo; do
@@ -11,4 +12,4 @@ while read repo; do
 	cd $dir/$repo
 	git review -s
 	cd $prevpwd
-done < $scriptdir/repos.txt
+done < $scriptdir/$host.txt
