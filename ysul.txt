@@ -1,2 +1,7 @@
-mediawiki/services/parsoid
 operations/mediawiki-config
+mediawiki/core
+mediawiki/services/parsoid
+operations/dns
+operations/puppet
+pywikibot/core
+mediawiki/extensions/WikimediaMessages
