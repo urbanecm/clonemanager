@@ -5,3 +5,5 @@ operations/dns
 operations/puppet
 pywikibot/core
 mediawiki/extensions/WikimediaMessages
+mediawiki/extensions/ContentTranslation
+mediawiki/extensions/Flow
