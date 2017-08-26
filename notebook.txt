@@ -12,3 +12,4 @@ mediawiki/extensions/Flow
 mediawiki/extensions/SandboxLink
 mediawiki/extensions/RelatedArticles
 mediawiki/extensions/Scribunto
+mediawiki/extensions/Gadgets
