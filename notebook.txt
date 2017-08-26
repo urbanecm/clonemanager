@@ -11,3 +11,4 @@ mediawiki/extensions/ContentTranslation
 mediawiki/extensions/Flow
 mediawiki/extensions/SandboxLink
 mediawiki/extensions/RelatedArticles
+labs/tools/forrestbot
