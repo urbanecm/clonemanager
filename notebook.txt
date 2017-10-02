@@ -17,3 +17,4 @@ mediawiki/extensions/Gadgets
 mediawiki/extensions/CheckUser
 mediawiki/extensions/AdminLinks
 mediawiki/tools/codesniffer
+translatewiki
