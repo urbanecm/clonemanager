@@ -9,6 +9,7 @@ mediawiki/extensions/WikimediaMessages
 mediawiki/extensions/WikimediaMaintenance
 mediawiki/extensions/ContentTranslation
 mediawiki/extensions/Flow
+mediawiki/extensions/TitleBlacklist
 mediawiki/extensions/SandboxLink
 mediawiki/extensions/RelatedArticles
 labs/tools/forrestbot
