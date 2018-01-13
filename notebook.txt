@@ -16,5 +16,6 @@ mediawiki/extensions/Scribunto
 mediawiki/extensions/Gadgets
 mediawiki/extensions/CheckUser
 mediawiki/extensions/AdminLinks
+mediawiki/extensions/Collection
 mediawiki/tools/codesniffer
 translatewiki
