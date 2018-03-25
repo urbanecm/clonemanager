@@ -11,11 +11,10 @@ mediawiki/extensions/ContentTranslation
 mediawiki/extensions/Flow
 mediawiki/extensions/SandboxLink
 mediawiki/extensions/RelatedArticles
-labs/tools/forrestbot
 mediawiki/extensions/Scribunto
 mediawiki/extensions/Gadgets
 mediawiki/extensions/CheckUser
 mediawiki/extensions/AdminLinks
 mediawiki/extensions/Collection
-mediawiki/tools/codesniffer
+mediawiki/vagrant
 translatewiki
