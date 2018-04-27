@@ -2,6 +2,7 @@ operations/mediawiki-config
 wikimedia/portals
 mediawiki/core
 mediawiki/services/parsoid
+mediawiki/services/restbase/deploy
 operations/dns
 operations/puppet
 pywikibot/core
@@ -12,10 +13,11 @@ mediawiki/extensions/Flow
 mediawiki/extensions/TitleBlacklist
 mediawiki/extensions/SandboxLink
 mediawiki/extensions/RelatedArticles
-labs/tools/forrestbot
 mediawiki/extensions/Scribunto
 mediawiki/extensions/Gadgets
 mediawiki/extensions/CheckUser
 mediawiki/extensions/AdminLinks
-mediawiki/tools/codesniffer
+mediawiki/extensions/Collection
+mediawiki/vagrant
 translatewiki
+integration/config
