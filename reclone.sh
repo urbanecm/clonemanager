@@ -5,6 +5,6 @@ host=`hostname | cut -d. -f 1`
 exclude="11cloneManager"
 
 for i in $(ls $dir | grep -v $exclude); do
-	echo $i
+	rm -rf $dir/$i
 done
 $scriptdir/clone.sh
