@@ -20,6 +20,7 @@ mediawiki/extensions/AdminLinks
 mediawiki/extensions/Collection
 mediawiki/extensions/ORES
 mediawiki/extensions/ProofreadPage
+mediawiki/extensions/FlaggedRevs
 mediawiki/vagrant
 translatewiki
 integration/config
