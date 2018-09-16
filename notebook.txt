@@ -24,3 +24,4 @@ mediawiki/extensions/FlaggedRevs
 mediawiki/vagrant
 translatewiki
 integration/config
+wikimedia-cz/tracker
