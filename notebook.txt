@@ -26,3 +26,4 @@ translatewiki
 integration/config
 wikimedia-cz/tracker
 wikimedia-cz/mediawiki-config
+wikimedia-cz/tools
