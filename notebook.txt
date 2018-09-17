@@ -25,3 +25,4 @@ mediawiki/vagrant
 translatewiki
 integration/config
 wikimedia-cz/tracker
+wikimedia-cz/mediawiki-config
