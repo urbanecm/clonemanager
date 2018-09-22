@@ -1,5 +1,4 @@
 operations/mediawiki-config
-wikimedia/portals
 mediawiki/core
 mediawiki/services/parsoid
 mediawiki/services/restbase/deploy
