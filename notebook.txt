@@ -21,6 +21,7 @@ mediawiki/extensions/ORES
 mediawiki/extensions/ProofreadPage
 mediawiki/extensions/FlaggedRevs
 mediawiki/vagrant
+labs/tools/map-of-monuments
 translatewiki
 integration/config
 wikimedia-cz/tracker
