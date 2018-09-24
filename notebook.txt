@@ -22,6 +22,10 @@ mediawiki/extensions/ProofreadPage
 mediawiki/extensions/FlaggedRevs
 mediawiki/vagrant
 labs/tools/map-of-monuments
+labs/tools/wikinity
+labs/tools/commons-mass-description
+labs/tools/weapon-of-mass-description
+labs/tools/harvesting-data-refinery
 translatewiki
 integration/config
 wikimedia-cz/tracker
