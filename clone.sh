@@ -7,7 +7,7 @@ host=`hostname | cut -d. -f 1`
 while read repo; do
 	echo Processing $repo...
 	mkdir -p $dir/$repo
-	git clone ssh://gerrit/$repo.git $dir/$repo
+	git clone ssh://$USER@gerrit.wikimedia.org:29418/$repo.git $dir/$repo
 	prevpwd=$PWD
 	cd $dir/$repo
 	git review -s
