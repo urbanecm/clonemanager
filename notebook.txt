@@ -7,6 +7,7 @@ operations/dns
 operations/puppet
 pywikibot/core
 mediawiki/vagrant
+labs/tools/wikibugs2
 labs/tools/map-of-monuments
 labs/tools/wikinity
 labs/tools/commons-mass-description
@@ -18,6 +19,8 @@ integration/config
 wikimedia-cz/tracker
 wikimedia-cz/mediawiki-config
 wikimedia-cz/tools
+wikimedia-cz/blog
+wikimedia-cz/events
 mediawiki/skins/Amethyst
 mediawiki/skins/Athena
 mediawiki/skins/BlueSky
