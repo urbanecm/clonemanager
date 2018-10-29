@@ -7,6 +7,7 @@ operations/dns
 operations/puppet
 pywikibot/core
 mediawiki/vagrant
+labs/tools/ipwatcher
 labs/tools/wikibugs2
 labs/tools/map-of-monuments
 labs/tools/wikinity
