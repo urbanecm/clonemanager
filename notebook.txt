@@ -74,6 +74,7 @@ mediawiki/skins/webplatform
 mediawiki/extensions/3D
 mediawiki/extensions/AJAXPoll
 mediawiki/extensions/APC
+mediawiki/extensions/GrowthExperiments
 mediawiki/extensions/AWS
 mediawiki/extensions/AWSSDK
 mediawiki/extensions/AbsenteeLandlord
