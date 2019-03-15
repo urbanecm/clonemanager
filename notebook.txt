@@ -23,6 +23,8 @@ wikimedia-cz/mediawiki-config
 wikimedia-cz/tools
 wikimedia-cz/blog
 wikimedia-cz/events
+wikimedia-cz/statistics
+wikimedia-cz/statistics/api
 mediawiki/skins/Amethyst
 mediawiki/skins/Athena
 mediawiki/skins/BlueSky
