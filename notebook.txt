@@ -1076,3 +1076,4 @@ mediawiki/extensions/reCaptcha
 mediawiki/extensions/skins
 mediawiki/extensions/timeline
 mediawiki/extensions/wikihiero
+mediawiki/tools/release
