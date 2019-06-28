@@ -1,3 +1,5 @@
+labs/tools/massmailer
+mediawiki/tools/scap
 analytics/wikistats2
 analytics/limn-language-data
 operations/mediawiki-config
