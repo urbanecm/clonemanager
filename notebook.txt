@@ -1,3 +1,4 @@
+analytics/quarry/web
 labs/tools/massmailer
 mediawiki/tools/scap
 analytics/wikistats2
