@@ -1,3 +1,4 @@
+labs/tools/parliamentdiagram
 mediawiki/libs/Equivset
 analytics/quarry/web
 labs/tools/massmailer
