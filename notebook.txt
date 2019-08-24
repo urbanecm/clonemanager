@@ -1,3 +1,4 @@
+labs/tools/stashbot
 labs/tools/parliamentdiagram
 mediawiki/libs/Equivset
 analytics/quarry/web
