@@ -1,3 +1,4 @@
+labs/private
 labs/tools/stashbot
 labs/tools/parliamentdiagram
 mediawiki/libs/Equivset
