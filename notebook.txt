@@ -1,3 +1,7 @@
+wikimedia/portals
+sandbox
+labs/tools/watch-translations
+wikimedia-cz/oauth
 wikimedia-cz/web-plugin
 wikimedia-cz/web-theme
 mediawiki/services/cxserver
