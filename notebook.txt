@@ -1,3 +1,4 @@
+labs/tools/wiki2email
 wikimedia/portals
 sandbox
 labs/tools/watch-translations
