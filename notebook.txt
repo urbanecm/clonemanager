@@ -1,3 +1,4 @@
+mediawiki/extensions/DiscussionTools
 mediawiki/extensions/WebAuthn
 labs/tools/wiki2email
 wikimedia/portals
