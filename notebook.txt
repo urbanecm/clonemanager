@@ -1,3 +1,5 @@
+mediawiki/extensions/GrowthExperiments
+mediawiki/skins/MinervaNeue
 mediawiki/core
 mediawiki/extensions/AbuseFilter
 mediawiki/extensions/CentralAuth
