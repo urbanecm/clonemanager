@@ -1,3 +1,4 @@
+mediawiki/extensions/WikimediaMessages
 operations/mediawiki-config
 mediawiki/extensions/GrowthExperiments
 mediawiki/skins/MinervaNeue
