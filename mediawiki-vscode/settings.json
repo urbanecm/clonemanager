@@ -1,0 +1,6 @@
+{
+    "intelephense.environment.documentRoot": "/home/urbanecm/unsynced/gerrit/mediawiki/core",
+    "intelephense.environment.includePaths": [
+        "/home/urbanecm/unsynced/gerrit/mediawiki/core"
+    ]
+}

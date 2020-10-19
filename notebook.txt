@@ -1,3 +1,7 @@
+mediawiki/services/cxserver
+mediawiki/services/restbase/deploy
+mediawiki/extensions/SandboxLink
+mediawiki/extensions/GlobalUsage
 mediawiki/extensions/Wikibase
 mediawiki/extensions/Gadgets
 mediawiki/extensions/WikimediaMessages
