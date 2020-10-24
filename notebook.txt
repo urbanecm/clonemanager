@@ -1,3 +1,4 @@
+wikimedia-cz/mediawiki-config
 mediawiki/skins/MonoBook
 mediawiki/extensions/SecurePoll
 mediawiki/services/cxserver
