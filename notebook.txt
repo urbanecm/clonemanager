@@ -1,3 +1,5 @@
+mediawiki/skins/MonoBook
+mediawiki/extensions/SecurePoll
 mediawiki/services/cxserver
 mediawiki/services/restbase/deploy
 mediawiki/extensions/SandboxLink
