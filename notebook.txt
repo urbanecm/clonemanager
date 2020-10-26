@@ -1,3 +1,5 @@
+mediawiki/extensions/ParserFunctions
+mediawiki/extensions/UserMerge
 wikimedia-cz/mediawiki-config
 mediawiki/skins/MonoBook
 mediawiki/extensions/SecurePoll
