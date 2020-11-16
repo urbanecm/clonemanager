@@ -1,3 +1,4 @@
+mediawiki/extensions/UrlShortener
 mediawiki/extensions/WikimediaMaintenance
 mediawiki/extensions/ConfirmEdit
 mediawiki/extensions/ParserFunctions
