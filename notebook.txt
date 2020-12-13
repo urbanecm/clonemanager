@@ -73,4 +73,3 @@ wikimedia-cz/tools
 wikimedia-cz/tracker
 wikimedia-cz/web-plugin
 wikimedia-cz/web-theme
-wikimedia/portals
