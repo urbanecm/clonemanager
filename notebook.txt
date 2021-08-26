@@ -1,3 +1,16 @@
+mediawiki/vagrant
+mediawiki/extensions/EventLogging
+mediawiki/extensions/EventBus
+mediawiki/extensions/EventStreamConfig
+mediawiki/extensions/Flow
+wikimedia/irc/ircservserv-config
+schemas/event/primary
+schemas/event/secondary
+mediawiki/extensions/TemplateData
+wikimedia/bots/jouncebot
+research/mwaddlink
+releng/local-charts
+operations/deployment-charts
 mediawiki/extensions/GlobalWatchlist
 mediawiki/extensions/UrlShortener
 mediawiki/extensions/WikimediaMaintenance
