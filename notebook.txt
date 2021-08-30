@@ -1,3 +1,4 @@
+mediawiki/extensions/NearbyPages
 mediawiki/vagrant
 mediawiki/extensions/EventLogging
 mediawiki/extensions/EventBus
@@ -46,8 +47,6 @@ mediawiki/extensions/OATHAuth
 mediawiki/extensions/OAuth
 mediawiki/extensions/Renameuser
 mediawiki/extensions/SpamBlacklist
-mediawiki/extensions/Translate
-mediawiki/extensions/UniversalLanguageSelector
 mediawiki/extensions/UploadWizard
 mediawiki/extensions/VisualEditor
 mediawiki/extensions/WebAuthn
