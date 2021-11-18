@@ -1,1 +1,1 @@
-notebook.txt
+mediawiki/extensions/GrowthExperiments
