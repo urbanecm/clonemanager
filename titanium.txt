@@ -1,1 +1,2 @@
-notebook.txt
+mediawiki/extensions/GrowthExperiments
+pywikibot/core
