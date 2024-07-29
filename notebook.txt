@@ -1,3 +1,4 @@
+mediawiki/extensions/CommunityConfiguration
 operations/docker-images/toollabs-images
 mediawiki/extensions/BetaFeatures
 cloud/toolforge/jobs-framework-api
