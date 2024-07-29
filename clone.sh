@@ -7,10 +7,10 @@ host=`hostname | cut -d. -f 1`
 while read repo; do
 	echo Processing $repo...
 	mkdir -p $dir/$repo
-	git clone ssh://$USER@gerrit.wikimedia.org:29418/$repo.git $dir/$repo
+	git clone ssh://urbanecm@gerrit.wikimedia.org:29418/$repo.git $dir/$repo
 	prevpwd=$PWD
 	cd $dir/$repo
-	git review -s
+	git review --remote origin -s
 	git config user.email "martin.urbanec@wikimedia.cz"
 	cd $prevpwd
 done < $scriptdir/$host.txt
