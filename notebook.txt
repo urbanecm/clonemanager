@@ -1,3 +1,13 @@
+operations/docker-images/toollabs-images
+mediawiki/extensions/BetaFeatures
+cloud/toolforge/jobs-framework-api
+mediawiki/extensions/LdapAuthentication
+design/codex
+integration/quibble
+mediawiki/extensions/Linter
+mediawiki/libs/Timestamp
+mediawiki/extensions/WikimediaIncubator
+oojs/core
 mediawiki/extensions/ORES
 mediawiki/services/parsoid
 labs/tools/deploy-commands
