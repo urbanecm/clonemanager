@@ -1,3 +1,19 @@
+mediawiki/extensions/Wikistories
+operations/software/bitu
+mediawiki/extensions/MediaModeration
+mediawiki/extensions/CampaignEvents
+wikimedia-cz/mediawiki-config
+mediawiki/extensions/ReportIncident
+mediawiki/extensions/TextExtracts
+mediawiki/extensions/CommunityConfigurationExample
+mediawiki/extensions/Babel
+mediawiki/extensions/AutoModerator
+translatewiki
+sandbox
+labs/libraryupgrader
+mediawiki/services/change-propagation
+mediawiki/extensions/CommunityConfiguration
+oojs/ui
 mediawiki/extensions/Math
 mediawiki/extensions/LiquidThreads
 mediawiki/extensions/MediaSearch
@@ -80,7 +96,6 @@ mediawiki/extensions/EventStreamConfig
 mediawiki/extensions/Flow
 mediawiki/extensions/TemplateData
 mediawiki/extensions/GlobalWatchlist
-mediawiki/extensions/UrlShortener
 mediawiki/extensions/WikimediaMaintenance
 mediawiki/extensions/ConfirmEdit
 mediawiki/extensions/ParserFunctions
