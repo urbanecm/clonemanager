@@ -1,3 +1,4 @@
+integration/config
 wikimedia-cz/mediawiki-config
 wikimedia-cz/blog
 wikimedia-cz/events
