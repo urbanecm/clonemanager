@@ -1,2 +1,0 @@
-mediawiki/extensions/GrowthExperiments
-pywikibot/core
